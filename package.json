@@ -1,0 +1,18 @@
+{
+    "name": "card_flexbox",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "dependencies": {
+        "ansi-colors": "^1.1.0",
+        "ansi-gray": "^0.1.1",
+        "ansi-regex": "^2.1.1",
+        "ansi-wrap": "^0.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
